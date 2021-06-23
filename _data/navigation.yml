@@ -1,29 +1,80 @@
 header:
+  # titles:
+  #   # @start locale config
+  #   en      : &EN       Archive
+  #   en-GB   : *EN
+  #   en-US   : *EN
+  #   en-CA   : *EN
+  #   en-AU   : *EN
+  #   zh-Hans : &ZH_HANS  归档
+  #   zh      : *ZH_HANS
+  #   zh-CN   : *ZH_HANS
+  #   zh-SG   : *ZH_HANS
+  #   zh-Hant : &ZH_HANT  歸檔
+  #   zh-TW   : *ZH_HANT
+  #   zh-HK   : *ZH_HANT
+  #   ko      : &KO       아카이브
+  #   ko-KR   : *KO
+  #   fr      : &FR       Archives
+  #   fr-BE   : *FR
+  #   fr-CA   : *FR
+  #   fr-CH   : *FR
+  #   fr-FR   : *FR
+  #   fr-LU   : *FR
+  #   vi      : &VI       Lưu trữ
+  #   vi-VN   : *VI
+  #
+  #   # @end locale config
+  # url: /archive.html
+
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Home
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       Archives
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
+      vi      : &VI       Trang chủ
+      vi-VN   : *VI
       # @end locale config
-    url: /archive.html
-
+    url: /trang-chu.html
+    
+  - titles:
+      # @start locale config
+      en      : &EN       Programing
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      vi      : &VI       Lập trình
+      vi-VN   : *VI
+      # @end locale config
+    url: /lap-trinh.html
+    
+  - titles:
+      # @start locale config
+      en      : &EN       Book Review
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      vi      : &VI       Sách review
+      vi-VN   : *VI
+      # @end locale config
+    url: /sach-review.html
+    
+  - titles:
+      # @start locale config
+      en      : &EN       English
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      vi      : &VI       Tiếng anh
+      vi-VN   : *VI
+      # @end locale config
+    url: /tieng-anh.html
+    
   - titles:
       # @start locale config
       en      : &EN       About
@@ -31,20 +82,7 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
+      vi      : &VI       About
+      vi-VN   : *VI
       # @end locale config
     url: /about.html

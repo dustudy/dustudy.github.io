@@ -46,11 +46,18 @@
           {%- assign _article_cover = __return -%}
           <div class="item__image">
           {%- if include.cover_size == 'lg' -%}
-            <img class="image image--lg" src="{{ _article_cover }}" />
+          <!-- <a href="{{ _article_url }}">
+            <div class="card card--flat">
+              <div class="card__image">
+                <img class="image image--lg" src="{{ _article_cover }}" />
+              </div>
+            </div>
+          </a> -->
+            <a href="{{ _article_url }}"><img class="image image--lg" src="{{ _article_cover }}" /></a>
           {%- elsif include.cover_size == 'sm' -%}
-            <img class="image image--sm" src="{{ _article_cover }}" />
+            <a href="{{ _article_url }}"><img class="image image--sm" src="{{ _article_cover }}" /></a>
           {%- else -%}
-            <img class="image" src="{{ _article_cover }}" />
+            <a href="{{ _article_url }}"><img class="image" src="{{ _article_cover }}" /></a>
           {%- endif -%}
           </div>
         {%- endif -%}

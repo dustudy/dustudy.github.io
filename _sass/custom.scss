@@ -1,3 +1,13 @@
 /* start custom scss snippet */
+.navigation > ul > li {
+	margin-right: 1.2rem;
+}
 
+.root[data-is-touch="false"] a:hover {
+    text-decoration: none;
+}
+
+.root[data-is-touch="false"] a > .item__header:hover, .root[data-is-touch="false"] a.item__header:hover, .root[data-is-touch="false"] .item__header > a:hover {
+    text-decoration: none;
+}
 /* end custom scss snippet */
