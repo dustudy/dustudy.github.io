@@ -1,7 +1,4 @@
 /* start custom scss snippet */
-.navigation > ul > li {
-	margin-right: 1.2rem;
-}
 
 .root[data-is-touch="false"] a:hover {
     text-decoration: none;
@@ -10,4 +7,16 @@
 .root[data-is-touch="false"] a > .item__header:hover, .root[data-is-touch="false"] a.item__header:hover, .root[data-is-touch="false"] .item__header > a:hover {
     text-decoration: none;
 }
+
+h2.item__header {
+    margin-top: 0;
+}
 /* end custom scss snippet */
+.image-custome{
+	width: 100%;
+	border-radius: 5px;
+}
+
+.image-custome:hover{
+	opacity: 0.8;
+}
