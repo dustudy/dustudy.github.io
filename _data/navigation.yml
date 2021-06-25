@@ -37,7 +37,7 @@ header:
       vi      : &VI       Trang chủ
       vi-VN   : *VI
       # @end locale config
-    url: /trang-chu.html
+    url: /
     
   - titles:
       # @start locale config
