@@ -4,12 +4,12 @@ title: "Review sách: Người giàu có nhất thành Babylon"
 author: Nguyễn Quang Duy
 mathjax: false
 categories: sach-review
-cover: http://192.168.2.78/wp-content/uploads/2020/02/nguoi-giau-co-nhat-thanh-babylon.png
+cover: /assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/nguoi-giau-co-nhat-thanh-babylon.png
 ---
 Người giàu có nhất thành babylon là một trong những cuốn sách bán chạy nhất của thời đại, cuốn sách mang lại cho người đọc những kiến thức về tài chính, cách sử dụng cũng như đầu tư một cách hiệu quả, đây cũng là những bước đầu tiên để giúp bạn trở nên giàu có. Sau đây là những gì mà mình đã rút ra được từ cuốn sách này.
 
 <p class="text-center">
-    <img class="" alt="Người giàu có nhất thành babylon" src="http://192.168.2.78/wp-content/uploads/2020/02/nguoi-giau-co-nhat-thanh-babylon.png"/>
+    <img class="" alt="Người giàu có nhất thành babylon" src="/assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/nguoi-giau-co-nhat-thanh-babylon.png"/>
 </p>
 <!--more-->
 
