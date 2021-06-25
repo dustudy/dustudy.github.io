@@ -175,6 +175,8 @@ analytics:
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
+google_analytics: G-ES4SZDNPDB
+
 ## => Build
 ##############################
 markdown    : kramdown
