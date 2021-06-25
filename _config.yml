@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Dustories
 description: > # this means to ignore newlines until "Language & timezone"
-  Nếu một ngày bạn cảm thấy muốn khóc
+  Học là Hành
 
 ## => Language and Timezone
 ##############################
@@ -213,7 +213,6 @@ defaults:
       show_subscribe: true
       pageview: true
 
-
 ## => Plugins
 ##############################
 plugins:
@@ -221,3 +220,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-seo-tag
