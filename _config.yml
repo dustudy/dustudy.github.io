@@ -18,11 +18,11 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://dustories.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Dustories
 description: > # this means to ignore newlines until "Language & timezone"
-  Học là Hành
+  Chuyên chia sẻ kiến thức liên quan đến Lập Trình và phát triển bản thân.
 
 ## => Language and Timezone
 ##############################
@@ -214,6 +214,24 @@ defaults:
       show_edit_on_github: false
       show_subscribe: false
       pageview: true
+
+
+
+## jekyll-seo-tag
+title: Dustories
+tagline: Dustories - Chia sẻ kiến thức liên quan đến Lập trình và phát triển bản thân.
+description: Chia sẻ kiến thức liên quan đến Lập trình và phát triển bản thân.
+url: https://dustories.com
+facebook:
+  app_id: 100011580090765
+  publisher: 100011580090765
+  admins: 100011580090765
+logo: /assets/images/logo/logo.png
+social:
+  name: Nguyễn Quang Duy
+  links:
+    - https://www.facebook.com/quangduy.family
+#################
 
 ## => Plugins
 ##############################
