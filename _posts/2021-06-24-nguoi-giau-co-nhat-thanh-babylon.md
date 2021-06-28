@@ -2,7 +2,7 @@
 layout: article
 title: "Review sách: Người giàu có nhất thành Babylon"
 author: Nguyễn Quang Duy
-tags: ["Review sách", "Người giàu có nhất thành Babylon"]
+tags: ["Review sách", "Người giàu có nhất thành Babylon", "Phát triển bản thân"]
 category: sach-review
 cover: /assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/nguoi-giau-co-nhat-thanh-babylon.png
 ---
