@@ -2,13 +2,13 @@
 layout: article
 title: "Review sách: Người giàu có nhất thành Babylon"
 author: Nguyễn Quang Duy
-mathjax: false
+tags: ["Review sách", "Người giàu có nhất thành Babylon"]
 category: sach-review
 cover: /assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/nguoi-giau-co-nhat-thanh-babylon.png
 ---
-Người giàu có nhất thành babylon là một trong những cuốn sách bán chạy nhất của thời đại, cuốn sách mang lại cho người đọc những kiến thức về tài chính, cách sử dụng cũng như đầu tư một cách hiệu quả, đây cũng là những bước đầu tiên để giúp bạn trở nên giàu có. Sau đây là những gì mà mình đã rút ra được từ cuốn sách này.
+**Người giàu có nhất thành Babylon** là một trong những cuốn sách bán chạy nhất của thời đại, cuốn sách mang lại cho người đọc những kiến thức về tài chính, cách sử dụng cũng như đầu tư một cách hiệu quả, đây cũng là những bước đầu tiên để giúp bạn trở nên giàu có. Sau đây là những gì mà mình đã rút ra được từ cuốn sách này.
 
-<p class="text-center">
+<p class="text center">
     <img class="" alt="Người giàu có nhất thành babylon" src="/assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/nguoi-giau-co-nhat-thanh-babylon.png"/>
 </p>
 <!--more-->
@@ -33,7 +33,7 @@ Chúng ta chỉ có một cách đó chính là chỉ mua những món đồ th�
 
 Tác giả cũng khuyên chúng ta chỉ nên trích 1/10 tự trả cho chính bản thân mình cho dù bạn có kiếm được nhiều tiền thế nào đi chăng nữa vì ta còn phải chi trả cho rất nhiều thứ, thế nên con số này là hợp lý nếu bạn không muốn có một cuộc sống tằn tiện và gò ép bản thân chẳng được hưởng thụ gì cả.
 
-<p class="text-center">
+<p class="text center">
     <img class="" alt="Người giàu có nhất thành babylon" src="/assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/tiet-kiem.jpg"/>
 </p>
 
@@ -44,7 +44,7 @@ Sau khi bạn học được cách tiết kiệm và tiết kiệm được mộ
 
 Bạn đã bao giờ nghe nói “Hãy bắt tiền làm việc cho mình” chưa? Chính là vậy, bài học ở đây tác giả muốn truyền đạt cho chúng ta rằng hãy đầu tư số tiền mà bạn kiếm được để sinh lợi, tức là bạn lấy số tiền mà mình đã tiết kiệm được ở trên để đem đi đầu tư ví dụ như mua vàng, gửi tiết kiệm, đầu tư chứng khoán, quỹ đầu tư,… để chúng có thể làm việc ngày một kiếm cho chúng ta nhiều tiền hơn.
 
-<p class="text-center">
+<p class="text center">
     <img class="" alt="Người giàu có nhất thành babylon" src="{% link /assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/dau-tu-tai-chinh.jpg %}"/>
 </p>
 
@@ -56,6 +56,8 @@ Có một cách mà chúng ta có thể giảm mức rủi do đầu tư một c
 
 ## Không dùng tiền để kiếm lợi một cách phi pháp hoặc khi thiếu kiến thức
 > Nếu dùng vàng để kiếm lợi một cách phi pháp hoặc làm theo những lời khuyên không đúng, lừa đảo hay phó thác nó cho những kinh nghiệm yếu kém thì rất dễ thất bại và mất sạch vàng.
+>
+> <p class="text end bold italic"> ~ Người giàu có nhất thành Babylon. </p>
 
 Tuyệt đối chúng ta không nên nghe theo những lời khuyên của người thiếu kinh nghiệm, đặc biệt càng không nên chạy theo đồng tiền dơ bẩn, phi pháp mặc cho lợi nhuận có hấp dẫn đến đâu đi chăng nữa vì điều đó không sớm thì muộn bạn cũng hết sạch vàng trong tay mà thôi.
 
