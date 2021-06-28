@@ -14,7 +14,6 @@ Người giàu có nhất thành babylon là một trong những cuốn sách b�
 <!--more-->
 
 
-
 ## Hãy trích ra 1/10 số tiền mà bạn kiếm được
 Không biết bạn có để ý rằng bạn hoặc bạn bè của bạn mặc dù có bao nhiêu tiền ở đầu tháng thì đến cuối tháng lại chẳng còn đồng nào. Mình cũng quen biết rất nhiều người mặc dù họ kiếm được rất nhiều tiền hàng tháng nhưng mỗi khi có việc cần đến một số tiền nho nhỏ thì họ lại phải chạy vạy đi vay hết người này đến người khác.
 
