@@ -9,7 +9,7 @@ cover: /assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/nguoi-giau-co-nhat-
 **Người giàu có nhất thành Babylon** là một trong những cuốn sách bán chạy nhất của thời đại, cuốn sách mang lại cho người đọc những kiến thức về tài chính, cách sử dụng cũng như đầu tư một cách hiệu quả, đây cũng là những bước đầu tiên để giúp bạn trở nên giàu có. Sau đây là những gì mà mình đã rút ra được từ cuốn sách này.
 
 <p class="text center">
-    <img class="" alt="Người giàu có nhất thành babylon" src="/assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/nguoi-giau-co-nhat-thanh-babylon.jpg"/>
+    <img class="br-5" alt="Người giàu có nhất thành babylon" src="/assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/nguoi-giau-co-nhat-thanh-babylon-top.jpg"/>
 </p>
 <!--more-->
 
@@ -31,10 +31,10 @@ Chúng ta luôn có xu hướng sở hữu các món đồ ưu thích vượt qu
 
 Chúng ta chỉ có một cách đó chính là chỉ mua những món đồ thực sự cần thiết, mỗi khi bạn muốn mua 1 món đồ nào đó thì bạn nên tự hỏi “Liệu mình đã thực sự cần đến món đồ đó chưa?” rồi hẵng mua.
 
-Tác giả cũng khuyên chúng ta chỉ nên trích 1/10 tự trả cho chính bản thân mình cho dù bạn có kiếm được nhiều tiền thế nào đi chăng nữa vì ta còn phải chi trả cho rất nhiều thứ, thế nên con số này là hợp lý nếu bạn không muốn có một cuộc sống tằn tiện và gò ép bản thân chẳng được hưởng thụ gì cả.
+Trong cuốn sách **người giàu có nhất thành Babylon** cũng khuyên chúng ta chỉ nên trích 1/10 tự trả cho chính bản thân mình cho dù bạn có kiếm được nhiều tiền thế nào đi chăng nữa vì ta còn phải chi trả cho rất nhiều thứ, thế nên con số này là hợp lý nếu bạn không muốn có một cuộc sống tằn tiện và gò ép bản thân chẳng được hưởng thụ gì cả.
 
 <p class="text center">
-    <img class="" alt="Người giàu có nhất thành babylon" src="/assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/tiet-kiem.jpg"/>
+    <img class="width-70 br-5" alt="Người giàu có nhất thành babylon" src="/assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/tiet-kiem.jpg"/>
 </p>
 
 Vậy nên ngay từ bây giờ hãy dành ra 1/10 cho chính bản thân mình nhé.
@@ -45,7 +45,7 @@ Sau khi bạn học được cách tiết kiệm và tiết kiệm được mộ
 Bạn đã bao giờ nghe nói “Hãy bắt tiền làm việc cho mình” chưa? Chính là vậy, bài học ở đây tác giả muốn truyền đạt cho chúng ta rằng hãy đầu tư số tiền mà bạn kiếm được để sinh lợi, tức là bạn lấy số tiền mà mình đã tiết kiệm được ở trên để đem đi đầu tư ví dụ như mua vàng, gửi tiết kiệm, đầu tư chứng khoán, quỹ đầu tư,… để chúng có thể làm việc ngày một kiếm cho chúng ta nhiều tiền hơn.
 
 <p class="text center">
-    <img class="" alt="Người giàu có nhất thành babylon" src="{% link /assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/dau-tu-tai-chinh.jpg %}"/>
+    <img class="width-70 br-5" alt="Người giàu có nhất thành babylon" src="{% link /assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/dau-tu-tai-chinh.jpg %}"/>
 </p>
 
 ## Đầu tư một cách khôn ngoan
@@ -61,4 +61,11 @@ Có một cách mà chúng ta có thể giảm mức rủi do đầu tư một c
 
 Tuyệt đối chúng ta không nên nghe theo những lời khuyên của người thiếu kinh nghiệm, đặc biệt càng không nên chạy theo đồng tiền dơ bẩn, phi pháp mặc cho lợi nhuận có hấp dẫn đến đâu đi chăng nữa vì điều đó không sớm thì muộn bạn cũng hết sạch vàng trong tay mà thôi.
 
-Nếu bạn đã từng đọc cuốn sách này thì hãy comment cho mình biết ý kiến cá nhân của các bạn nhé.
+<p class="text center">
+    <img class="width-70 br-5" alt="người giàu có nhất thành babylon review" src="{% link /assets/images/posts/nguoi-giau-co-nhat-thanh-babylon/phi-phap-nguoi-giau-co-nhat-thanh-babylon.jpg %}"/>
+</p>
+
+<p class="text center"> ~ HẾT ~ </p>
+
+Trên đây là toàn bộ những tóm tắt nội dung và cảm cảm của mình về cuốn sách **người giàu có nhất thành Babylon**. Nếu các bạn có cơ hội thì mình khuyên chân thành hãy mua và đọc nó để hiểu sâu sắc hơn về nội dung mà tác giả muốn truyền đạt.
+Còn nếu bạn đã từng đọc cuốn sách này thì hãy comment cho mình biết ý kiến cá nhân của các bạn về cuốn sách này nhé.
