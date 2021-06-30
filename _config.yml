@@ -235,6 +235,8 @@ social:
 
 site_title: Dustories
 site_description: Chia sẻ kiến thức liên quan đến Lập Trình và Phát Triển Bản Thân
+site_author: Nguyễn Quang Duy
+sitemap_url: /sitemap
 ## => Plugins
 ##############################
 plugins:

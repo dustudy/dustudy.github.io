@@ -28,8 +28,8 @@
       <div>
         {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
         {%- assign _locale_copyright_dates = __return -%}
-        © {{ site.title }} {{ _locale_copyright_dates }} |
-        Nguyễn Quang Duy
+        © {{ site.site_title }} {{ _locale_copyright_dates }} -
+        {{site.site_author}} | <a href="{{ site.sitemap_url}}">Sitemap</a>
       </div>
     </div>
   </div>
