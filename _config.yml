@@ -219,7 +219,7 @@ defaults:
 
 ## jekyll-seo-tag
 title: Dustories - Chia sẻ kiến thức Lập Trình và Phát Triển Bản Thân
-tagline: Lập Trình Viên - Lập Trình Web
+## tagline: Lập Trình Viên - Lập Trình Web
 description: Blog chia sẻ những kiến thức liên quan đến Lập Trình, cách phát triển Website cho Lập Trình Viên và Kỹ năng mềm để Phát Triển Bản Thân thông qua Sách, kinh nghiệm, cuộc sống,...
 url: https://dustories.com
 facebook:
