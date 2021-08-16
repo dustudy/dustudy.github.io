@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: true
 cover: "/assets/images/posts/lai-suat-kep-suc-manh-khung-khiep-the-nao/cover.png"
 ---
-Một trong những nhà vật lý vĩ đại nhất mọi thời đại đã - Albert Einstein đã từng nói "**Lãi kép** là kỳ quan thứ 8 của thế giới. Những ai vận dụng được nó sẽ nhận được sự giàu có, còn những ai không hiêu... sẽ phải trả giá cho nó".
+Một trong những nhà vật lý vĩ đại nhất mọi thời đại Albert Einstein đã từng nói "**Lãi kép** là kỳ quan thứ 8 của thế giới. Những ai vận dụng được nó sẽ nhận được sự giàu có, còn những ai không hiêu... sẽ phải trả giá cho nó".
 
 <p class="text center">
     <img class="br-5 shadow" alt="Tính lãi kép" src="/assets/images/posts/lai-suat-kep-suc-manh-khung-khiep-the-nao/thumb.png"/>
@@ -101,7 +101,7 @@ Còn đây là biểu đồ thể hiện sự tăng trưởng của dòng tiền
 
 Nhìn vào biểu đồ thì mọi người có thể thấy sức mạnh **lãi kép** phụ thuộc rất lớn vào thời gian. Các bạn đầu tư càng lâu thì lãi càng lớn, mà đầu tư càng sớm thì lãi càng cao!
 
-### Vậy làm sao tận dụng lãi suất kép hiệu quả
+### Vậy làm sao tận dụng lãi suất kép hiệu quả?
 Như tôi đã nói **lãi kép** phụ thuộc rất nhiều vào thời gian, vậy nên các bạn ngay hôm nay hãy trích một khoản tiền nhỏ để tiết kiệm và đầu tư sinh lời.
 
 Để các bạn có thể hình dung rõ hơn, tôi sẽ lấy ví dụ ở bài toán trên với tất cả dữ liệu giữ nguyên chỉ thay vì **35 năm**, giờ tôi sẽ đầu tư **40 năm**. 
@@ -120,7 +120,7 @@ Biều đồ tăng trưởng sau 40 năm:
 Các bạn nhìn thấy tổng tiền sẽ nhận rồi chứ? tổng là **6,3 tỷ**, chỉ thêm 5 năm thôi mà số tiền nhận được chênh lệch khủng khiếp
 (**3,8 tỷ** nếu chờ thêm **5 năm** sẽ được **6,3 tỷ**, có nên chờ không ta?).
 
-### Nên bắt đầu tiết kiệm như thế nào
+### Nên bắt đầu tiết kiệm như thế nào?
 Hiện nay có rất nhiều hình thức giúp bạn có thể sinh lời từ khoản tiết kiệm của mình như gửi ngân hàng, đầu tư trái phiếu, cổ phiếu, tham gia quỹ mở hay các sản phẩm tài chính cá nhân hiện nay cũng đang dần phổ biến, các bạn có thể tìm hiểu như: Finhay, Infina, Tikop,...
 
 Đó là một các hình thức đầu tư phổ biến hiện nay, các bạn hãy tìm hiểu trước khi chọn bất kỳ hình thức nào nhé.
