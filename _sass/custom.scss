@@ -12,12 +12,14 @@ h2.item__header {
     margin-top: 0;
 }
 /* end custom scss snippet */
-.image-custome{
+.image-custome-cover{
 	width: 100%;
-	border-radius: 5px;
+	border-radius: 8px;
+	box-shadow: 1px 1px 10px 1px #e0e0e0;
+	border-color: transparent;
 }
 
-.image-custome:hover{
+.image-custome-cover:hover{
 	opacity: 0.8;
 }
 
